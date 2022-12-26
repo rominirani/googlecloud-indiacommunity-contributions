@@ -3,9 +3,18 @@ This repository is a collection of talks/presentations given at various [DevFest
 
 This repository focuses on Google Cloud Platform talks. 
 
-If you have presented at one of the DevFest's in the Cloud track, please do share your content. 
+If you have presented at one of the DevFest's in the Cloud track, please do share your content. [Create an issue](https://github.com/rominirani/google-devfest-india-2022-cloud/issues/new) with the label ``addtalk`` and provide the following details in the issue:
+- Devfest Date
+- Devfest City
+- Your Name
+- Your talk topic
+- Brief Description (if you'd like)
+- Provide 3 links if you have:
+  - Presentation link (This is mandatory)
+  - Blog Post (Optional)
+  - Repo Link (Optional)
 
-## List of Talks
+## List of Talks at DevFest India Events in 2022
 
 | Devfest Date | Devfest City | Presenter Name(s) | Topic | Brief Description of Talk | Links |
 |---|---|---|---|---|---|
