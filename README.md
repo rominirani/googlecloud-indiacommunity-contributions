@@ -1,4 +1,3 @@
-# google-devfest-india-2022-cloud
 This repository is a collection of talks/presentations given at various [DevFest Events held in 2022 in India](https://devfestindia.com/). 
 
 This repository focuses on Google Cloud Platform talks. 
