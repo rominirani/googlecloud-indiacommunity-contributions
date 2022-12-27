@@ -23,5 +23,3 @@ If you have presented at one of the DevFest's in the Cloud track, please do shar
 | 28/08/2022 | Kolkata | Sayak Paul | Improving Dataflow pipelines for text data at scale |  | [Presentation](https://docs.google.com/presentation/d/1EAn4_pNZzt0_8mz_VAuccSySU3DpNoYN5X04amvkbC0/edit?usp=sharing)|
 | 24/09/2022 | Ahmedabad | Sayak Paul | Fantastic ML Deployments & How to do them with Vertex AI |  | [Presentation](https://bit.ly/ccd-ahm-deck)<br>[Repo](https://github.com/sayakpaul/ccd-ahm-2022)|
 | 13/10/2022 | Bengaluru | Sayak Paul | Better Hardware Provisioning for ML Experiments on GCP |  | [Presentation](https://github.com/carted/cloud-next-22-terraform/blob/main/slides/Cloud%20Next%202022%20-%20Sayak.pdf)<br>[Repo](https://github.com/carted/cloud-next-22-terraform)|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
