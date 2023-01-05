@@ -9,6 +9,7 @@ If you have presented at one of the events on Google Cloud Platform, please do s
 - Event (DevFest or Cloud Community Days or Cloud NEXT)
 - City
 - Your Name
+- LinkedIn Profile URL
 - Your talk topic
 - Brief Description (if you'd like)
 - Provide 3 links if you have:
