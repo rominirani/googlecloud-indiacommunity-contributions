@@ -1,5 +1,5 @@
-## Google Dev Rel India Events - Cloud Talks
-This repository is a collection of talks/presentations given at various DevFest/Cloud Community Days/Cloud NEXT Events held in 2022 in India. 
+## Google Cloud India Community Events - Presentations
+This repository is a collection of talks/presentations given at various DevFest/Cloud Community Days/Community Events held in India. 
 
 This repository focuses on Google Cloud Platform talks. The goal is to collect these talks and amplify them within the community. 
 
