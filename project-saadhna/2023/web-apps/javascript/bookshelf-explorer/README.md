@@ -1,7 +1,6 @@
 # Bookshelf Explorer: Serverless Web APIs
 ## Use Case
-Google Cloud Run enables seamless scaling and deployment of containerized applications, 
-while Cloud Functions allow for the execution of event-triggered code without the need for server management.
+Bookshelf Explorer is a web API designed to handle CRUD operations for books within the firstore database and it also provides a read-only frontend interface. 
 ## Google Cloud Services
 - Google Cloud Functions
 - Google Cloud Run
