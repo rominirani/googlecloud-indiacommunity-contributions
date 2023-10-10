@@ -138,6 +138,7 @@ Create an environment variable for Artifact Registry repository URL.
 export DOCKER_URL=${REGION}-docker.pkg.dev/${PROJECT_ID}/vertex-repo/vertex-summarizer-image
 ```
 Build the docker container and tag it with Artifact Registry Repository location. Tagging the Docker image with a repository name configures the `docker push` command to push the image to a specific location.
+
 ```bash
 docker build . -t ${DOCKER_URL}
 ```
@@ -150,3 +151,5 @@ Deploy docker container to Cloud Run.
 gcloud run deploy vertex-summarizer --allow-unauthenticated --platform=managed --region=${REGION} --image=${DOCKER_URL}
 ```
 Yaay !! vertex summarizer is up and running. The URL will be shown in Cloud Shell, so Explore and Enjoy Vertex AI🤖.
+
+[Medium Blog Link](https://medium.com/google-cloud/google-cloud-vertex-ai-and-svelte-kit-vertex-summarizer-5db792d0d80e)
