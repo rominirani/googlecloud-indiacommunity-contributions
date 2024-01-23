@@ -8,6 +8,8 @@ This repository focuses on Google Cloud Platform talks. The goal is to collect t
 
 - [2023 Presentations](2023/PRESENTATIONS.md)
 
+- [2024 Presentations](2024/PRESENTATIONS.md)
+
 ## How to submit your talk details?
 
 If you have presented at one of the events on Google Cloud Platform, please do share your content. [Create an issue](https://github.com/rominirani/googlecloud-indiacommunity-contributions/issues) and provide the following details in the issue as given below (For an example, check the following [issue](https://github.com/rominirani/googlecloud-indiacommunity-presentations/issues/1)):
