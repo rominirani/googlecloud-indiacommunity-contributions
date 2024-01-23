@@ -1,4 +1,6 @@
 ### List of Talks at DevFest/Cloud Community Days/Cloud NEXT India Events in 2024
 
-| Date (dd/mm/yyyy)| Event, City | Presenter(s) | Topic | Talk Description | Links |
-|---|---|---|---|---|---|
+| Date (dd/mm/yyyy) | Event, City          | Presenter(s)                                                 | Topic                                            | Talk Description | Links                                                                                                                |
+| ----------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 18/01/2024 | St. Xavier's College, Mumbai | [Akshay Bhopani](https://www.linkedin.com/in/akshaybhopani/) | BigQuery ML + Vertex AI PaLM API | SQL Only Text Summarizer using BigQuery ML & Vertex AI PaLM API | [Presentation](https://docs.google.com/presentation/d/1a0B9zOBJ4xMa4X1xiDayEHekhUZTdUpKsbJO_bDfWTM/edit?usp=sharing)|
+| 18/01/2024 | St. Xavier's College, Mumbai | [Sarvesh Shashikumar](https://www.linkedin.com/in/sarvesh-shashikumar/) & [Dhiraj Chaudhari](https://www.linkedin.com/in/dhiraj-chaudhari-06ba10259/) | Data to AI with Google Cloud | Data to Generative AI with Spanner and Vertex AI Imagen API | [Presentation](https://docs.google.com/presentation/d/1ZdI-bwUKWyb-zQBHS53-45qkr4Xzn_NruvTHIm4BGms/edit?usp=sharing)|
